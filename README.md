@@ -389,7 +389,7 @@ Main technologies include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/https://github.com/Chalana48/Ai-fake-online-store-detection.git
+git clone https://github.com/Chalana48/Ai-fake-online-store-detection.git
 ```
 
 Move into the project directory:
